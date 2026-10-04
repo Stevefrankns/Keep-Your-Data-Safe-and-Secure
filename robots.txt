@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://stevefrankns.github.io/Keep-Your-Data-Safe-and-Secure/sitemap.xml
